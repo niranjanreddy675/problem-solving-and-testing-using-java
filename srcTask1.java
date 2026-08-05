@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class salary {
+public class Taskl {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
