@@ -41,7 +41,7 @@ class Authentication {
     }
 }
 
-public class Task10 {
+public class syllabus_task10_secureauthenctication {
 
     public static void main(String[] args) {
 
