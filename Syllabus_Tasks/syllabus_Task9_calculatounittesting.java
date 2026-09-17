@@ -16,7 +16,7 @@ class Calculator {
     }
 }
 
-public class Task9 {
+public class syllabus_Task9_calculatounittesting {
 
     public static void main(String[] args) {
 
