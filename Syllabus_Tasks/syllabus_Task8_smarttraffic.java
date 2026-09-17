@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Task8 {
+public class syllabus_Task8_smarttraffic {
 
     public static boolean routeExists(
             List<List<Integer>> graph,
